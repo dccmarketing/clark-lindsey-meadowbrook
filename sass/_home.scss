@@ -94,7 +94,7 @@
 	text-transform 	: uppercase;
 	font-size 		: $font__size-large;
 	position		: relative;
-	overflow 		: auto;
+	overflow 		: hidden;
 	text-align 		: center;
 
 	@media only screen and (min-width: $bp__menu-button+1) {
